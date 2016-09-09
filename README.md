@@ -1,7 +1,7 @@
 # utils
 Some useful (or not) scripts
 
-Clock.py - ASCII clock
+Clock.py - ASCII clock \n
 diff_of_modif_time.py - difference of log files modification time
 rnd_race_game.py - simple game like horse racing 
 rnd_race_game_v2.py - another version of rnd_race_game.py 
