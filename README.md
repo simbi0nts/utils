@@ -9,3 +9,4 @@ Some useful (or not) scripts
       rock_paper_scissors(lizards_pock).py    classic game
       smtp_fns.py                             automatic message of DB status (From Oracle DB to Lotus Notes)
       smtp_sample.py                          automatic message of DB status (From Oracle DB to Lotus Notes)
+      sudoky.py                               Some sudoku generator
