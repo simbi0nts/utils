@@ -10,3 +10,5 @@ Some useful (or not) scripts
       smtp_fns.py                             automatic message of DB status (From Oracle DB to Lotus Notes)
       smtp_sample.py                          automatic message of DB status (From Oracle DB to Lotus Notes)
       sudoky.py                               Some sudoku generator
+      sudoky_v2.py                            Better version of sudoku generator
+      
