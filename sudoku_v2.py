@@ -224,4 +224,4 @@ if __name__ == '__main__':
 ################################################################################
 
 
-# TODO: solving puzzle function
+# TODO: solving puzzle class
